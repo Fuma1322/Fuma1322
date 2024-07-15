@@ -12,7 +12,7 @@ Hello! 👋 I'm Tankiso Fuma, a passionate Software Engineering student at Holbe
 ## Skills
 
 - 💻 Programming languages: HTML, CSS, JavaScript.
-- 🛠️ Technologies and Tools: React, NextJS, TypeScript, Bootstrap, Material UI, Shadcn UI.
+- 🛠️ Technologies and Tools: React, NextJS, TypeScript, Prisma & MongoDB.
 
 ## Connect with Me
 
