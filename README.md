@@ -1,6 +1,6 @@
 # Tankiso Fuma
 
-Hello! 👋 I'm Tankiso Fuma, a passionate Software Engineering student at Holberton School Lesotho, with a keen interest in web development. Welcome to my GitHub profile!
+Hello! 👋 I'm Tankiso Fuma, a passionate Software Engineer, with a keen interest in web development. Welcome to my GitHub profile!
 
 ## About Me
 
