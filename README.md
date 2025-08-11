@@ -5,13 +5,14 @@ Hello! 👋 I'm Tankiso Fuma, a passionate Software Engineer, with a keen intere
 ## About Me
 
 - 🌍 I'm based in Lesotho.
-- 🎓 Studied Software Engineering at Holberton School Lesotho.
+- 🎓 Studied Software Engineering at Holberton School Lesotho,
+- 🎓 Completed my Frontend certificate @InternPulse and FullStack Developer certificate @FNB App Academy.
 - 🌱 Currently focusing on Full Stack Web Development.
 - 😄 Pronouns: He/Him.
 
 ## Skills
 
-- 💻 Programming languages: HTML, CSS, JavaScript and TypeScript.
+- 💻 Programming languages: HTML, CSS, Python, Django, JavaScript and TypeScript.
 - 🛠️ Technologies and Tools: React, NextJS, Prisma & MongoDB.
 
 ## Connect with Me
