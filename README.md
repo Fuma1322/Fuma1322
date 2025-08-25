@@ -1,6 +1,6 @@
 # Tankiso Fuma
 
-Hello! 👋 I'm Tankiso Fuma, a passionate Software Engineer, with a keen interest in web development. Welcome to my GitHub profile!
+Hello! 👋 I'm Tankiso Fuma, a passionate Full Stack Developer, with a keen interest in web development. Welcome to my GitHub profile!
 
 ## About Me
 
