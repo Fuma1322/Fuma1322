@@ -13,7 +13,7 @@ I enjoy turning ideas into production-ready systems — especially projects that
 - 🎓 Software Engineering — Holberton School Lesotho  
 - 🎓 Frontend Certification — InternPulse  
 - 🎓 Full Stack Development — FNB App Academy  
-- 🚀 Founder of **MaseruPlug**
+- 🚀 Founder & CEO of **MPLUG PTY LTD**
 
 ---
 
