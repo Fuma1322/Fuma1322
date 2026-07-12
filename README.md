@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tankiso Fuma
 
-**Full Stack Developer | Web Builder | Founder of MaseruPlug 🇱🇸**
+**Full Stack Developer | Web Builder | Founder & CEO of MPLUG PTY LTD**
 
 ---
 
